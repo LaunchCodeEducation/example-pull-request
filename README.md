@@ -1,2 +1,2 @@
-# example-pull-request
-This exists as example of commits and a pull request.
+# Summary
+This exists as an example of commits and pull requests. Any commits and open PRs are for informational purposes.
